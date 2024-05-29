@@ -1,0 +1,5 @@
+//Iniciar simulacion en empty word
+roslaunch practica2 detectsquare.launch
+
+//Ejecutar codigo para movimiento de robot
+rosrun practica2 practica2_node
